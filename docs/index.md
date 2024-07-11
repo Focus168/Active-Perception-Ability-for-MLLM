@@ -17,8 +17,7 @@
 ## Authors
 | Authors       | Affiliations      | Date          |
 |---------------|-------------------|---------------|
-| Penghao Wu    | UC San Diego      | Dec. 21, 2023 |
-| Saining Xie   | New York University|               |
+| Ziyue Wang    | Tsinghua University | July. 11, 2024 |
 
 ## Abstract
 Active perception, a crucial human capability, involves setting a goal based on the current understanding of the environment and performing actions to achieve that goal. Despite significant efforts in evaluating Multimodal Large Language Models (MLLMs), active perception has been largely overlooked. To address this gap, we propose a novel benchmark named ActiView to evaluate active perception in MLLMs. Since comprehensively evaluating active perception is challenging, we focus on a specialized form of Visual Question Answering (VQA) that eases evaluation yet challenging for existing MLLMs. Given an image, we restrict the perceptual field of a model, requiring it to actively zoom and shift its perceptual field based on reasoning to answer the question successfully. Extensive evaluation results on 30 API-based models and 8 advanced open-source models reveal a significant gap in the active perception capability of MLLMs, indicating that this area deserves more attention.
