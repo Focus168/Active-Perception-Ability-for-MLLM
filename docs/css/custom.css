@@ -1,0 +1,47 @@
+/* custom.css */
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #6667AB;
+    border-bottom: 1px solid #715EA9;
+}
+
+.header-content {
+    max-width: 50%;
+}
+
+.header-content h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+.button-container {
+    margin-top: 10px;
+}
+
+.button {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 10px 20px;
+    background-color: #ECC159;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.header-image {
+    max-width: 40%;
+}
+
+.header-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
