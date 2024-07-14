@@ -34,7 +34,7 @@ Active perception, a crucial human capability, involves setting a goal based on 
 
 ## Effectiveness of Actiview
 
-## References
+## Acknowledgement
 
 [^1]: Phil Ammirato, Patrick Poirson, Eunbyung Park, Jana Košecká, and Alexander C. Berg. 2017. A dataset for developing and benchmarking active vision. In 2017 IEEE International Conference on Robotics and Automation (ICRA), pages 1378-1385.
 [^2]: Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, and Devi Parikh. 2015. VQA: visual question answering. In 2015 IEEE International Conference on Computer Vision, ICCV 2015, Santiago, Chile, December 7-13, 2015, pages 2425-2433. IEEE Computer Society.
