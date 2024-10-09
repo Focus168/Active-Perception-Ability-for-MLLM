@@ -10,7 +10,7 @@
         </div>
     </div>
     <div class="header-image">
-        <img src="images/teaser_eye.png" alt="Teaser Image" class="teaser-image">
+        <img src="images/teaser1.png" alt="Teaser Image" class="teaser-image">
     </div>
 </div>
 
