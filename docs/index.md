@@ -4,7 +4,7 @@
 <div class="header-container">
     <div class="header-content">
         <div class="button-container">
-            <a href="https://arxiv.org/abs/2312.14135" class="button">Paper</a>
+            <a href="https://arxiv.org/pdf/2410.04659" class="button">Paper</a>
             <a href="https://github.com/penghao-wu/vstar" class="button">Code</a>
             <a href="https://craigwu-vstar.hf.space" class="button">Demo</a>
         </div>
@@ -20,7 +20,7 @@
 | Ziyue Wang    | Tsinghua University | July. 11, 2024 |
 
 ## Abstract
-Active perception, a crucial human capability, involves setting a goal based on the current understanding of the environment and performing actions to achieve that goal. Despite significant efforts in evaluating Multimodal Large Language Models (MLLMs), active perception has been largely overlooked. To address this gap, we propose a novel benchmark named ActiView to evaluate active perception in MLLMs. Since comprehensively evaluating active perception is challenging, we focus on a specialized form of Visual Question Answering (VQA) that eases evaluation yet challenging for existing MLLMs. Given an image, we restrict the perceptual field of a model, requiring it to actively zoom and shift its perceptual field based on reasoning to answer the question successfully. Extensive evaluation results on 30 API-based models and 8 advanced open-source models reveal a significant gap in the active perception capability of MLLMs, indicating that this area deserves more attention.
+Active perception, a crucial human capability, involves setting a goal based on the current understanding of the environment and performing actions to achieve that goal. Despite significant efforts in evaluating Multimodal Large Language Models (MLLMs), active perception has been largely overlooked. To address this gap, we propose a novel benchmark named ActiView1 to evaluate active perception in MLLMs. Since comprehensively assessing active perception is challenging, we focus on a specialized form of Visual Question Answering (VQA) that eases the evaluation yet challenging for existing MLLMs. Given an image, we restrict the perceptual field of a model, requiring it to actively zoom or shift its perceptual field based on reasoning to answer the question successfully. We conduct extensive evaluation over 27 models, including proprietary and open-source models, and observe that the ability to read and comprehend multiple images simultaneously plays a significant role in enabling active perception. Results reveal a significant gap in the active perception capability of MLLMs, indicating that this area deserves more attention. We hope that our benchmark could help develop methods for MLLMs to understand multimodal inputs in more natural and holistic ways.
 
 ## Contents
 
